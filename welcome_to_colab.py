@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/notebooks/intro.ipynb
 """
 
+!pip install dash pandas plotly
 import pandas as pd
 import dash
 from dash import dcc, html, Input, Output
